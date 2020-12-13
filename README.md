@@ -1,4 +1,4 @@
-# Library_Database_System
+# Library Database System
 A physical, relational university library MySQL database system.
 
 This project is part of a database systems coursework taught at the Queen Mary University of London Electrical Engineering & Computer Science Department to create a simple MySQL database based on the following scenario:
