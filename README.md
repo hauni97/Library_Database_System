@@ -11,7 +11,8 @@ The image below shows the structure of the database in a relational databse sche
 
 
 ## Relational Database Schema ##
-Additional larger sets of data to test the database can be created with [mockaroo](https://www.mockaroo.com/) 
+Additional larger sets of data to test the database can be created with [mockaroo](https://www.mockaroo.com/).
+
 To comply with the restraints in the database; it is advisable to generate additional data with regex; for instance, a suggested Username and Email_Address formula may be:
 
 | Field Name |   Regex Code Example in [Mockaroo formula syntax](https://www.mockaroo.com/help/formulas)    |
